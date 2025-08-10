@@ -36,4 +36,4 @@ PostgreSQL (PSQL)
 
 # Tools
 
-Nodemon, axios, CORS, dotenv, pg (Node.js PostgreSQL client)
+Nodemon,CORS, dotenv, pg (Node.js PostgreSQL client)
