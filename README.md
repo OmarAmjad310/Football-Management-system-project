@@ -1,7 +1,7 @@
-🏆 # Football-Management-System
+# 🏆 Football-Management-System
 A full-stack web application for managing football teams, players, matches, and coaches. Built with Node.js, React, and PostgreSQL, this system allows users to perform full CRUD operations on key football entities.
 
-🚀 Features
+# 🚀 Features
 CRUD Operations on:
 
 🏁 Teams (Create, Read, Update, Delete)
