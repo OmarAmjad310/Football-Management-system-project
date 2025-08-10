@@ -22,18 +22,18 @@ Clean, modular, and scalable architecture
 
 🛠️ Technologies Used
 
-Frontend
+# Frontend
 
 React.js (with Hooks, Axios)
 
-Backend
+# Backend
 
 Node.js, Express.js
 
-Database
+# Database
 
 PostgreSQL (PSQL)
 
-Tools
+# Tools
 
 Nodemon, CORS, dotenv, pg (Node.js PostgreSQL client)
