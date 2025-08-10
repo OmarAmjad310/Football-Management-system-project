@@ -3,21 +3,37 @@ A full-stack web application for managing football teams, players, matches, and 
 
 🚀 Features
 CRUD Operations on:
+
 🏁 Teams (Create, Read, Update, Delete)
+
 ⚽ Players (Add, View, Edit, Remove)
+
 🏟️ Matches (Schedule, Update Results, View Fixtures)
+
 🧑‍🏫 Coaches (Manage coaching staff)
+
 RESTful API backend using Node.js & Express
+
 Responsive frontend with React
+
 Persistent data storage using PostgreSQL
+
 Clean, modular, and scalable architecture
 
 🛠️ Technologies Used
+
 Frontend
+
 React.js (with Hooks, Axios)
+
 Backend
+
 Node.js, Express.js
+
 Database
+
 PostgreSQL (PSQL)
+
 Tools
+
 Nodemon, CORS, dotenv, pg (Node.js PostgreSQL client)
