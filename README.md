@@ -20,7 +20,7 @@ Persistent data storage using PostgreSQL
 
 Clean, modular, and scalable architecture
 
-🛠️ # Technologies Used
+🛠️ #Technologies Used
 
 # Frontend
 
